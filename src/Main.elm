@@ -95,7 +95,7 @@ content =
     [ Attr.id "fileContent"
     , Attr.placeholder "Start Writing..."
     , Attr.spellcheck False
-    , onInput FileNameChanged
+    , onInput FileContentChanged
     ]
     []
   ]
