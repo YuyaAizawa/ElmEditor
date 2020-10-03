@@ -1,0 +1,16 @@
+body {
+  font-family: monospace;
+  line-height: 1.7;
+}
+
+header > input {
+  border: transparent;
+}
+
+#main > textarea {
+  resize: none;
+  width: 100%;
+  height: 100%;
+  border: transparent;
+  padding: 2em;
+}
